@@ -13,5 +13,8 @@ namespace LabRepExample
             Console.WriteLine("Hello World");
             Console.ReadLine();
         }
+
+        static void f() { }
+        static void g() { }
     }
 }
