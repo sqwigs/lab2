@@ -16,5 +16,7 @@ namespace LabRepExample
 
         static void f() { }
         static void g() { }
+
+        public int foo() { return 0; }
     }
 }
